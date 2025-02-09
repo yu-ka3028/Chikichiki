@@ -1,5 +1,11 @@
 # React + Vite
 
+サービス名：これは何チキ？
+
+URL:https://chikichiki.vercel.app/
+
+背景：昨日のイベントで熱が冷めぬうちに...ノリでやってみた。
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
