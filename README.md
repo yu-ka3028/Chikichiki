@@ -16,9 +16,5 @@ URL:https://chikichiki-biu5myco8-yu-ka3028s-projects.vercel.app/
 参考記事
 - 環境構築：https://qiita.com/shoki-y/items/1be906c372c8a9a993a3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+更新状況
+- 2025/02/10:120m/環境構築、ゲーム作成
