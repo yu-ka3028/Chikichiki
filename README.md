@@ -2,7 +2,7 @@
 
 サービス名：これは何チキ？
 
-URL:https://chikichiki.vercel.app/
+URL:https://chikichiki-biu5myco8-yu-ka3028s-projects.vercel.app/
 
 背景：昨日のイベントで熱が冷めぬうちに...ノリでやってみた。
 
